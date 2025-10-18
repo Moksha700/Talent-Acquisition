@@ -1,0 +1,6 @@
+Jane Doe
+Email: jane@example.edu
+Experience: Teaching undergraduate courses in data structures and algorithms.
+Research: Artificial intelligence, machine learning, and data science.
+Skills: machine learning, deep learning, natural language processing, teaching, curriculum development
+Publications: 10 peer-reviewed papers in AI venues.

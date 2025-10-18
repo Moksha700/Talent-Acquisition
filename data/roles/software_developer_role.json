@@ -1,0 +1,22 @@
+{
+  "id": "software_developer_role",
+  "title": "Software Developer role",
+  "department": "Academic Affairs",
+  "required_skills": [
+    "foundations of academic affairs",
+    "research methods in academic affairs",
+    "data analysis for academic affairs"
+  ],
+  "preferred_skills": [
+    "emerging topics in academic affairs",
+    "industry collaboration in academic affairs"
+  ],
+  "research_focus": [
+    "applied academic affairs",
+    "advanced academic affairs techniques"
+  ],
+  "teaching_requirements": [
+    "introductory academic affairs courses",
+    "advanced academic affairs seminars"
+  ]
+}
